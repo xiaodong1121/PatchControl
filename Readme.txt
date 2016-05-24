@@ -8,3 +8,6 @@ I could download the newest patch and change file and upload to a new patch. The
 
 
 //First change to patch 1.
+
+//It seems it really easy to work now.
+//Now it is new version.
